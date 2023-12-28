@@ -7,7 +7,7 @@
 ********************************************************************************
 /*
 Description:
-File contains all anlysis that are presented in the thesis.
+File contains all the analysis that are presented in the thesis.
 */
 ********************************************************************************
 /*
