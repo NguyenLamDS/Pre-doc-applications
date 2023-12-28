@@ -1,5 +1,5 @@
 *****************
-** Milestones, and Endogenous Feedback in Promoting Cooperation **
+** Milestones and Endogenous Feedback in Promoting Cooperation **
 ** Authors: Nguyen Lam **
 *****************
 
@@ -32,7 +32,7 @@ Execute the files in the following order:
 
 *****************
 ** Note **
-You may not be able to run those files succesfully since they require data as inputs.
+You may not be able to run those files successfully since they require data as inputs.
 However, I am not allowed to share the data yet since the project is still in progress.
 *****************
 

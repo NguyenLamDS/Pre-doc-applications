@@ -1,6 +1,6 @@
 ********************************************************************************
 ********************************************************************************
-** Milestones, and Endogenous Feedback in Promoting Cooperation
+** Milestones and Endogenous Feedback in Promoting Cooperation
 ** Authors: Nguyen Lam
 ** Supervisors: Nisvan Erkal, Boon Han Koh
 ********************************************************************************
